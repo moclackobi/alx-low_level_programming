@@ -6,11 +6,11 @@
  * Return: 0
  */
 
-int maint(void)
+int main(void)
 {
 char c;
 
-for(c = '0'; c >= 'a' --c)
+for (c = '122'; c >= '97'c--)
 putchar(c);
 
 putchar('\n');
