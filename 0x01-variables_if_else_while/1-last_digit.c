@@ -9,7 +9,7 @@
  * last digit is 0, greater than 5 or less than 6 and not 0.
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 int n;
 
@@ -21,5 +21,5 @@ printf("last digit of %d is %d %s\n", n, n % 10,
 : (((n % 10) > 5) ? "and is greater than 5"
 : "and is less than 6 and not 0"));
 
-return (0)
+return (0);
 }
