@@ -21,6 +21,6 @@ putchar(' ');
 }
 c++;
 }
-putchat('\n');
+putchar('\n');
 return (0);
 }
