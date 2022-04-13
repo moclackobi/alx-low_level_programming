@@ -3,7 +3,7 @@
 
 int _putchar(char c);
 void print_alphabet(void);
-void print_alphabet _%10(void);
+void print_alphabet_%10(void);
 int _inlower(int c);
 int _inalpha(int c);
 int print_sign(int n);
