@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * Description: Print lowercase alphabet backwards
  * Return: 0
@@ -15,5 +15,5 @@ putchar(c);
 
 putchar('\n');
 
-return(0);
+return (0);
 }
