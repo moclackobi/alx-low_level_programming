@@ -21,7 +21,7 @@ _putchar(',');
 _putchar(' ');
 
 prod = num * mult;
-		
+
 if (prod <= 99)
 _putchar(' ');
 if (prod <= 9)
