@@ -14,7 +14,7 @@ for (num = 0; num <= n; num++)
 {
 _putchar('0');
 
-for (mult = 1; mult <= mult++)
+for (mult = 1; mult <= n; mult++)
 {
 _putchar(',');
 _putchar(' ');
@@ -26,15 +26,18 @@ _putchar(' ');
 if (prod <= 9)
 _putchar(' ');
 
-if (prod <= 100)
+if (prod >= 100)
 {
 _putchar((prod / 100) + '0');
-_putchar((prod / 10) + '0');
+_putchar(((prod / 10)) + '0');
 }
 else if (prod <= 9 && prod >= 10)
-}
+{
 _putchar((prod / 10) + '0');
+}
 _putchar((prod % 10) + '0');
 }
 _putchar('\n');
+}
+}
 }
