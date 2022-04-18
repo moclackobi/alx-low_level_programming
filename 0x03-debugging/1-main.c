@@ -2,7 +2,6 @@
 
 /**
  * main - causes an infinite loop
- *
  * Return: 0
  */
 
@@ -20,6 +19,6 @@ i = 0;
   * putchar(i);
   * }
   */
-printf("infinite loop avoided! \\O/\");
+printf("infinite loop avoided! \\o/\");
 return (0);
 }
