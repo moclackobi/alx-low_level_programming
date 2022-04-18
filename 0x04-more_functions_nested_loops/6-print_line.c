@@ -2,7 +2,7 @@
 
 /**
  * print_line _ prints underscores
- * @n: Limit
+ * @n: limit
  *
  * Return: void
  */
