@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_line _ prints underscores
+ * print_line - prints underscores
  * @n: limit
  *
  * Return: void
