@@ -3,7 +3,7 @@
 /**
  * main - prints Fizz for int divisible by 3 and Buzz for 5
  *
- * Return: int 
+ * Return: int
  */
 
 int main(void)
