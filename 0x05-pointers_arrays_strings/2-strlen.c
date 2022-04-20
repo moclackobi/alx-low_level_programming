@@ -2,8 +2,8 @@
 
 /**
  * _strlen - length of string
- * @s:char
- * Return:int
+ * @s: char
+ * Return: void
  */
 int _strlen(char *s)
 {
