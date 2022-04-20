@@ -1,19 +1,19 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
  * _strlen - length of string
- * @s: char
- * Return: void
+ * @s:char
+ * Return:int
  */
 
 int _strlen(char *s)
 {
 int = i;
 
-i = 0;
-while (s[i] != '\0')
+
+for (i = 0; s[i] != '\0'; i++)
 {
-i++;
+continue;
 }
 return (i);
 }
