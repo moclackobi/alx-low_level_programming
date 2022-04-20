@@ -1,9 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strlen - length of string
- * @s: char
- * Return: int
+ * @s:char
+ * Return:int
  */
 int _strlen(char *s)
 {
