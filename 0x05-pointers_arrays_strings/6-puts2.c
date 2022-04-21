@@ -5,7 +5,7 @@
  * @str: pointer char
  * Return: void
  */
-void put2(char *str)
+void puts2(char *str)
 {
 int i, x;
 i = 0;
