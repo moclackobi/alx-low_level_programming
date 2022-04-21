@@ -12,8 +12,8 @@ int i, j;
 i = 0;
 while (str[i])
 i++;
-j = 1 / 2;
-if ( i % 2)
+j = i / 2;
+if (i % 2)
 j += 1;
 while (j < i)
 {
