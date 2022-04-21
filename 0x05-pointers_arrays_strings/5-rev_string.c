@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * rev_string - reverse a string 
+ * rev_string - reverse a string
  * @s: string
  * Return: void
  */
@@ -19,7 +19,7 @@ i++;
 i = i - 1;
 while (i >= 0)
 {
-*(s + i) = *(s + j);
+*(s + i) = *(a + j);
 j++;
 i--;
 }
