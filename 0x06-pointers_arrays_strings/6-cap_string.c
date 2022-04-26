@@ -12,8 +12,8 @@ char nots[] = ",;.!>(){}\nt\" ";
 
 for (x = 0, trigger = 0; s[x] != '\0'; x++)
 {
-if (s[0] > 96 && s[0] <123)
-trigger = i;
+if (s[0] > 96 && s[0] < 123)
+trigger = 1;
 for (y = 0; nots[y] != '\0'; y++)
 {
 if (nots[y] == s[x])
